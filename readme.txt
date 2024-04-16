@@ -3,7 +3,7 @@ FIRST Download
 
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2."Visual Code Editor" "TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
 3"epes"
 
